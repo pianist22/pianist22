@@ -29,9 +29,51 @@
 
 ## 🧰 Tech Stack
 
-```bash
-Languages:       JavaScript, TypeScript, C++, Python
-Frameworks:      React.js, Redux, Node.js, Express.js, Next.js
-Databases:       MongoDB
-Tools & Other:   Postman, Cloudinary, JWT, Socket.io, TailwindCSS, Zod
-```
+- Languages:       JavaScript, TypeScript, C++, Python
+- Frameworks:      React.js, Redux, Node.js, Express.js, Next.js
+- Databases:       MongoDB
+- Tools & Other:   Postman, Cloudinary, JWT, Socket.io, TailwindCSS, Zod
+
+--- 
+
+## ✨ Featured Projects
+
+| 🔥 Project | 🌟 Highlights | 🧰 Tech Stack |
+|-----------|---------------|---------------|
+| [Chatverse](https://github.com/pianist22/Chatverse-FrontEnd) | Real-time chat, status indicators, JWT auth, Socket.io | MERN, Material UI |
+| [Study Notion](https://github.com/pianist22/Study-Notion) | Full EdTech platform with user auth, CMS, and media handling | MERN, Cloudinary |
+| [ECOMZY](https://github.com/pianist22/Shopping-CartProject-ECOMZY-) | E-commerce shopping cart with UI alerts & redux | React, Redux, Tailwind CSS |
+| [Samudra Saarthi](https://github.com/pianist22/Samudra-Saarthi) | Coastal safety app with ML risk analysis and SOS | React Native, Flask, ML |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **SIH 2024 Finalist** – *Samudra Saarthi* Coastal Risk App
+- 💯 Solved **650+ DSA problems** on LeetCode
+- 🧪 Built **ML-based Risk Analysis** system for coastal tourism
+- 📈 Contributed to **real-world projects** during internship at CoderOne
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pianist22&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pianist22&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pianist22&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 📍 Let's Connect!
+
+- 📧 **Email**: [priyanshusaha944@gmail.com](mailto:priyanshusaha944@gmail.com)
+- 🌐 **LinkedIn**: [Priyanshu Saha](https://linkedin.com/in/priyanshu-saha-339571262/)
+- 🛠️ **Portfolio**: *Coming Soon...*
+
+---
+
